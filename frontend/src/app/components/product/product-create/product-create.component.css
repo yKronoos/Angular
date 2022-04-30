@@ -1,0 +1,12 @@
+.inputProduct {
+    padding-left: 30px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
